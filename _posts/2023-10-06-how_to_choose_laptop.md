@@ -22,10 +22,12 @@ tags: article
 
 |     구분        |     등급                                   |     주 용도                                        |     가격            |
 |-----------------|--------------------------------------------|----------------------------------------------------|---------------------|
-|     보급형      |     intel)   Core i3     AMD)   RYZEN 3    | 웹서핑, 문서작업, 저 사양 게임                     |     40~50만원       |
-|     중급형      |     intel)   Core i5     AMD)   RYZEN 5    | FHD 영상편집, 중 사양 게임                         |     50~60 만원      |
-|     고급형      |     intel)   Core i7     AMD)   RYZEN 7    | 4K 영상편집, 고 사양 게임                          |     70~150 만원     |
-|     하이엔드    |     intel)   Core i9     AMD)   RYZEN 9    | 고 사양 게임 풀 옵션, 3D 그래픽 작업, 방송 송출    |     150만원 이상    |
+|     보급형      |     intel Core i3, AMD RYZEN 3    | 웹서핑, 문서작업, 저 사양 게임                     |     40~50만원       |
+|     중급형      |     intel Core i5, AMD RYZEN 5    | FHD 영상편집, 중 사양 게임                         |     50~60 만원      |
+|     고급형      |     intel Core i7, AMD RYZEN 7    | 4K 영상편집, 고 사양 게임                          |     70~150 만원     |
+|     하이엔드    |     intel Core i9, AMD   RYZEN 9    | 고 사양 게임 풀 옵션, 3D 그래픽 작업, 방송 송출    |     150만원 이상    |
+
+
 [2]
 
 노트북의 브랜드와 마감품질에 다라 가격의 차이가 있을 수 있지만, 노트북의 주 성능과 가격대는 위의 표에 나타낸 CPU에 의해 주로 결정된다. 
@@ -53,4 +55,5 @@ CPU 다음으로 고려해야 할 부품사양은 GPU(Graphics Processing Unit, 
 
 ## 참고문헌
 [1] 한유나, 신영근, 박상성, 장동식, "라이프스타일에 따른 소비자 그룹의 노트북컴퓨터 구매의도 비교연구," 한국콘텐츠학회논문지, vol. 9, no. 6, pp. 134-144, 2009.
-[2] 노써치, “노트북구매가이드”https://nosearch.com/contents/guide/digitalit/notebook
+
+[2] 노써치, “노트북구매가이드”, https://nosearch.com/contents/guide/digitalit/notebook
